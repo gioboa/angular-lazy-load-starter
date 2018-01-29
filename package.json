@@ -1,0 +1,26 @@
+{
+  "name": "angular-ssr-starter",
+  "version": "1.0.0",
+  "description": "Starter Angular server-side rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gioboa/angular-ssr-starter.git"
+  },
+  "keywords": [
+    "Angular",
+    "Universal",
+    "SSR",
+    "lazy loading",
+    "Typescript"
+  ],
+  "author": "gioboa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gioboa/angular-ssr-starter/issues"
+  },
+  "homepage": "https://github.com/gioboa/angular-ssr-starter#readme"
+}
