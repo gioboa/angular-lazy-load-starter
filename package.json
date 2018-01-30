@@ -1,25 +1,24 @@
 {
-  "name": "angular-ssr-starter",
+  "name": "angular-lazy-load-starter",
   "version": "1.0.0",
-  "description": "Starter Angular server-side rendering",
+  "description": "Starter Angular lazy load",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gioboa/angular-ssr-starter.git"
+    "url": "git+https://github.com/gioboa/angular-lazy-load-starter.git"
   },
   "keywords": [
     "Angular",
     "webpack",
-    "SSR",
-    "lazy loading",
+    "lazy load",
     "Typescript"
   ],
   "author": "gioboa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gioboa/angular-ssr-starter/issues"
+    "url": "https://github.com/gioboa/angular-lazy-load-starter/issues"
   },
-  "homepage": "https://github.com/gioboa/angular-ssr-starter#readme",
+  "homepage": "https://github.com/gioboa/angular-lazy-load-starter#readme",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack -p",
     "build:dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
@@ -48,7 +47,7 @@
     "karma-sourcemap-loader": "0.3.7",
     "karma-spec-reporter": "0.0.32",
     "karma-webpack": "2.0.9",
-    "node-sass": "4.5.3",
+    "node-sass": "4.7.2",
     "raw-loader": "0.5.1",
     "rimraf": "2.6.2",
     "sass-loader": "6.0.6",

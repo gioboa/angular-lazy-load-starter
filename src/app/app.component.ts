@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
     <div style="width: 100%;">
-      <div style="text-align: center;text-transform: uppercase;font-size:24px;">Angular SSR Lazy loading</div>
+      <div style="text-align: center;text-transform: uppercase;font-size:24px;">Angular lazy load</div>
       <nav style="text-align:center;padding-top:100px;">
         <div style="width:33%;float: left;">
           <a routerLink="page-one" routerLinkActive="active">Page one</a>
